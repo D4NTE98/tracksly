@@ -126,7 +126,7 @@ Planned features:
 
 ![Start](./preview/start.png)
 
-![Projects](./preview/projects.png)
+![Projects](./preview/projekt.png)
 
 ---
 
