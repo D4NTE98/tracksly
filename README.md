@@ -123,11 +123,10 @@ Planned features:
 
 ## Preview
 
-```md
+
 ![Start](./preview/start.png)
 
 ![Projects](./preview/projects.png)
-```
 
 ---
 
